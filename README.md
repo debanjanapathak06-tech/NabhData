@@ -39,8 +39,3 @@ The system is designed to transform raw weather data into useful information for
 - HTML & CSS
 - Data processing and visualization
 - Vercel for deployment
-
-## 📂 Project Structure
-├── vite.config.ts
-├── tsconfig.json
-└── README.md
